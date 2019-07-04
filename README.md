@@ -41,7 +41,7 @@ Oh. We get an error code.
 
 ### API Credentials
 
-If we'd paused to read the [introductory documentation](https://developer.foursquare.com/start), we'd see that we need to create an app on Foursquare to use the API. Creating an app will give us a *client ID* and a *secret* that we can use as credentials for the API.
+If we'd paused to read the [introductory documentation](https://developer.foursquare.com/docs/api/getting-started), we'd see that we need to create an app on Foursquare to use the API. Creating an app will give us a *client ID* and a *secret* that we can use as credentials for the API.
 
 Most API providers require a similar process to use their API. Even though you can publicly access much of this data through the website, API providers want to know who is accessing their API. There are several reasons for this, but an important one is quality control.
 
